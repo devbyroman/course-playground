@@ -1,0 +1,24 @@
+{
+  "name": "course-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -e "console.log('ok')"",
+    "lint": "echo "lint placeholder"",
+    "format": "echo "format placeholder""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbyroman/course-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devbyroman/course-playground/issues"
+  },
+  "homepage": "https://github.com/devbyroman/course-playground#readme"
+}
